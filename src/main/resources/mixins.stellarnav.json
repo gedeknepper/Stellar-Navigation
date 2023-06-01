@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "io.github.carrotbane.stellarnav.mixins",
+	"mixins": ["RenderSkyMixin", "WorldRendererMixin"],
+	"refmap": "mixins.stellarnav.refmap.json",
+	"minVersion": 0.8,
+	"compatibilityLevel": "JAVA_8",
+	"injectors": {"defaultRequire": 1}
+}
